@@ -6,12 +6,3 @@ For open-source projects, it can be a challenge to ensure development coherence 
 
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
-                            
-
-
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/cheuk-ting-ho).
-
-[lil-course-url]: https://www.linkedin.com/learning/create-an-open-source-project-in-python?dApp=59033956&leis=LAA
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQEh8rkWx4V2MQ/learning-public-crop_675_1200/0/1680032934598?e=2147483647&v=beta&t=ZyBS874h-9xHgvfC94nSfZcladv4Uz01ctcNk0UWJoY
